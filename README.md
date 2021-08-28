@@ -1,6 +1,6 @@
 # Sobre 📋
 
-Desafio proposto no curso Programador BR, onde você teria que criar uma somples página de sorteio.
+Desafio proposto no curso Programador BR, onde você teria que criar uma lista de tarefas.
 
 # Design 
 
